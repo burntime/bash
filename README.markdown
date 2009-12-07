@@ -1,9 +1,8 @@
-This is a collection of my bash exension.
+aemkeis bash exension for Ubuntu
 
 ## Usage
 
-Edit your `.bash_profile` using favourite browser:
+Edit your `.bashrc` using favourite browser:
 
-    mate ~/.bash_profile
+    gedit ~/.bashrc
     
-Copy all other files to your user directory and make sure you have the rights to execute them.
